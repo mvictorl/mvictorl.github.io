@@ -1,2 +1,3 @@
-# mvictorl.github.io
-My notes...
+# [mvictorl.github.io](https://mvictorl.github.io)
+
+[Заметки](/notes)
